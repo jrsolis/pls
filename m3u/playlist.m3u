@@ -6,7 +6,8 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:-1 tvg-id=,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-p.m3u8?sd=10&rebase=on
-
+
+
 
 #EXTINF:-1 tvg-id=,Canal 5
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNyZsYW49MiZyb3dzPTIwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
