@@ -23,6 +23,66 @@ http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="multimedios monterrey.png",Multimedios TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
 
+#EXTINF:-1,CANAL5
+http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,AZTECA7
+http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,OnceTV
+http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,AZTECA13
+http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PROYECTO40
+http://201.161.59.3/proyecto40.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CADENA 3
+http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8 
+
+
+#EXTINF:-1,CANAL 52 MX
+http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,history
+http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SONY
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,WARNER
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E
+http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SPACE
+http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-1,WOBI
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,BANDAMAX
+http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,RITMOSON
+http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,TELEHIT
+http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SD
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FX
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX LIFE
+http://201.161.59.5/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,LIFETIME
+http://201.161.59.5/lifetime.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DISNEY XD
+http://201.161.59.5/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,cinemax
+http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DHE
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+
+
+
+#EXTINF:-1,FOX SPORTS
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,TYC SPORTS
+http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+
 
 #EXTINF:-1 ,Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
@@ -35,10 +95,6 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
 #EXTINF:-1,Tec TV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
-
-
-#EXTINF:-1 group-title="Viajes",Mexico Travel Channel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
 
 
 #EXTINF:-1,ViajAR
