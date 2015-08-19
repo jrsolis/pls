@@ -20,7 +20,6 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVAr
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="multimedios monterrey.png",Multimedios TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
 
-mexico:
 ‪#‎EXTINF‬:-1, CANAL DE LAS ESTRELLAS HD
 http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1, CANAL 5 HD
@@ -33,23 +32,23 @@ http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8
 http://200.76.77.230/LIVE/H01/CANAL113/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1, UNICABLE
 http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8
-‪#‎extinf‬:- 1, tnt
+#‎EXTINF‬:-1, tnt
 http://200.76.77.230/LIVE/H01/CANAL482/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1, zona de cine HD
+#‎EXTINF‬:-1, zona de cine HD
 http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8
-‪#‎extinf‬:- 1, tnt hd
+#‎EXTINF‬:-1, tnt hd
 http://200.76.77.230/LIVE/H01/CANAL435/PROFILE05.m3u8
-‪#‎Extinf‬ :- 1, serie de Tnt
+#‎EXTINF‬:-1, serie de Tnt
 http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,FOX
 http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1, WARNER WB HD
+#‎EXTINF‬:-1, WARNER WB HD
 http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,UNIVERSAL
 http://200.76.77.230/LIVE/H01/CANAL256/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,UNIVERSAL HD
 http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1, studio universal
+#‎EXTINF‬:-1, studio universal
 http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,FX
 http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8
@@ -57,21 +56,21 @@ http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8
 http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,AXN
 http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1, el espacio
+#‎EXTINF‬:-1, el espacio
 http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,SONY
 http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,SYFY
 http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1 la & y
+#‎EXTINF‬:-1, la & y
 http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,AMC
 http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,DE PELICULA HD
 http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8
-‪#‎extinf‬:- 1, golden hd
+#‎EXTINF‬:-1, golden hd
 http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1 Golden Edge
+#‎EXTINF‬:-1, Golden Edge
 http://200.76.77.230/LIVE/H01/CANAL484/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1,TMC
 http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8
@@ -79,113 +78,111 @@ http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8
 http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8
 ‪#‎EXTINF‬:-1, Cinecanal +
 http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8
-‪#‎Extinf‬ :- 1, CINEMAX
+#‎EXTINF‬:-1, CINEMAX
 http://200.76.77.230/LIVE/H01/CANAL481/PROFILE05.m3u8
- #extinf:- 1, fox 1 hd
+#‎EXTINF‬:-1, fox 1 hd
 http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8
- #Extinf :- 1, FOX ACTION HD
+#‎EXTINF‬:-1, FOX ACTION HD
 http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8
- #Extinf :- 1, fox movies HD
+#‎EXTINF‬:-1, fox movies HD
 http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8
- #Extinf: -1, fox cine
+#‎EXTINF‬:-1, fox cine
 http://200.76.77.230/LIVE/H01/CANAL472/PROFILE03.m3u8
- #Extinf :- 1, fox family
+#‎EXTINF‬:-1, fox family
 http://200.76.77.230/LIVE/H01/CANAL475/PROFILE03.m3u8
  #EXTINF:-1,FOX CLASSIS
 http://200.76.77.230/LIVE/H01/CANAL478/PROFILE03.m3u8
- #EXTINF:-1,FOXLIFE
+#‎EXTINF‬:-1,FOXLIFE
 http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8
- #Comedia Español
- #Extinf :- 1, tbs veryfunny
+#‎EXTINF‬:-1, tbs veryfunny
 http://200.76.77.230/LIVE/H01/CANAL273/PROFILE03.m3u8
  #EXTINF:-1,DISTRITO COMEDIA
 http://200.76.77.230/LIVE/H01/CANAL272/PROFILE03.m3u8
- #Extinf :- 1, comedy central
+#‎EXTINF‬:-1, comedy central
 http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8
- #Extinf :- 1, Nick Jr
+#‎EXTINF‬:-1, Nick Jr
 http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8
- #Extinf :- 1, cbeebies
+#‎EXTINF‬:-1, cbeebies
 http://200.76.77.230/LIVE/H01/CANAL305/PROFILE03.m3u8
- #Extinf :- 1, Disney Jr
+#‎EXTINF‬:-1, Disney Jr
 http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8
- #Extinf :- 1, discovery kids
+#‎EXTINF‬:-1, discovery kids
 http://200.76.77.230/LIVE/H01/CANAL303/PROFILE03.m3u8
- #Extinf :- 1, cartoon networt
+#‎EXTINF‬:-1, cartoon networt
 http://200.76.77.230/LIVE/H01/CANAL320/PROFILE03.m3u8
- #Extinf :- 1, nick
+#‎EXTINF‬:-1, nick
 http://200.76.77.230/LIVE/H01/CANAL317/PROFILE05.m3u8
- #Extinf :- 1, Nick HD
+#‎EXTINF‬:-1, Nick HD
 http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8
- #EXTINF:-1,DISNEY XD
+#‎EXTINF‬:-1,DISNEY XD
 http://200.76.77.230/LIVE/H01/CANAL322/PROFILE03.m3u8
- #Extinf :- 1, disney channel
+#‎EXTINF‬:-1, disney channel
 http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8
- #Extinf :- 1, tooncast
+#‎EXTINF‬:-1, tooncast
 http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8
- #Extinf :- 1, nick toons
+#‎EXTINF‬:-1, nick toons
 http://200.76.77.230/LIVE/H01/CANAL314/PROFILE03.m3u8
- #EXTINF:-1,BOOMERANG
+#‎EXTINF‬:-1,BOOMERANG
 http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8
  #EXTINF:-1,TIIN
 http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8
- #Extinf :- 1, glitz
+#‎EXTINF‬:-1, glitz
 http://200.76.77.230/LIVE/H01/CANAL270/PROFILE03.m3u8
- #Extinf :- 1, y
+#‎EXTINF‬:-1, E
 http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8
- #Extinf :- 1, de la historia
+#‎EXTINF‬:-1, de la historia
 http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8
  #EXTINF:-1,TLC
 http://200.76.77.230/LIVE/H01/CANAL386/PROFILE03.m3u8
- #extinf:- 1, nat geo
+#‎EXTINF‬:-1, nat geo
 http://200.76.77.230/LIVE/H01/CANAL377/PROFILE03.m3u8
- #Extinf :- 1, nat geo wild
+#‎EXTINF‬:-1, nat geo wild
 http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8
- #Extinf :- 1, animal planet
+#‎EXTINF‬:-1, animal planet
 http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8
- #Extinf :- 1, descubrimiento
+#‎EXTINF‬:-1, descubrimiento
 http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8
  #EXTINF:-1,DISCOVERY CIVILIZACION
 http://200.76.77.230/LIVE/H01/CANAL382/PROFILE03.m3u8
- #Extinf :- 1, discovery id
+#‎EXTINF‬:-1, discovery id
 http://200.76.77.230/LIVE/H01/CANAL263/PROFILE05.m3u8
- #Extinf :- 1, el descubrimiento de la ciencia
+#‎EXTINF‬:-1, el descubrimiento de la ciencia
 http://200.76.77.230/LIVE/H01/CANAL381/PROFILE05.m3u8
- #Extinf :- 1, descubrimiento theater HD
+#‎EXTINF‬:-1, descubrimiento theater HD
 http://200.76.77.230/LIVE/H01/CANAL351/PROFILE05.m3u8
- #Extinf :- 1, discovery turbo
-
+#‎EXTINF‬:-1, discovery turbo
 http://200.76.77.230/LIVE/H01/CANAL383/PROFILE05.m3u8
- #Extinf :- 1, descubrimiento palabra HD
+#‎EXTINF‬:-1, descubrimiento palabra HD
 http://200.76.77.230/LIVE/H01/CANAL356/PROFILE05.m3u8
  #EXTINF:-1,GOURMET
 http://200.76.77.230/LIVE/H01/CANAL268/PROFILE03.m3u8
- #Extinf :- 1, TRU TV
+#‎EXTINF‬:-1, TRU TV
 http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8
  #EXTINF:-1,WOBI
 http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8
- #extinf:- 1, isat
+#‎EXTINF‬:-1, isat
 http://200.76.77.230/LIVE/H01/CANAL495/PROFILE03.m3u8
- #Extinf :- 1, de por vida
+#‎EXTINF‬:-1, de por vida
 http://200.76.77.230/LIVE/H01/CANAL379/PROFILE03.m3u8
- #Extinf :- 1, hogar y salud
+#‎EXTINF‬:-1, hogar y salud
 http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8
- #extinf:- 1, tele hit hd
+#‎EXTINF‬:-1, tele hit hd
 http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8
  #EXTINF:-1,MTV
 http://200.76.77.230/LIVE/H01/CANAL726/PROFILE03.m3u8
- #Extinf :- 1, MTV LIVE HD
+#‎EXTINF‬:-1, MTV LIVE HD
 http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8
  #Extinf :- 1, ESPN
 http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8
- #Extinf :- 1, ESPN HD
+#‎EXTINF‬:-1, ESPN HD
 http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8
- #Extinf :- 1, ESPN 2
+#‎EXTINF‬:-1, ESPN 2
 http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8
- #Extinf :- 1, espn3
+#‎EXTINF‬:-1, espn3
 http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8
- #Extinf :- 1, FOX SPORTS
+#‎EXTINF‬:-1, FOX SPORTS
 http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8
- #Extinf :- 1, FOX SPORTS 2
+#‎EXTINF‬:-1, FOX SPORTS 2
 http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8
 
 #EXTINF:-1,Once TV
@@ -1147,3 +1144,4 @@ http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
 http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+
