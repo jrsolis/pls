@@ -1,199 +1,31 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-id="Canal DE LAS ESTRELLAS" tvg-name="Canal DE LAS ESTRELLAS" tvg-logo="canal 2.png",Canal 2 HD
+#EXTINF:-1 tvg-id=,Canal 2 HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="foro tv HD.png",Foro TV
+#EXTINF:-1 tvg-id=,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca 7.png",Azteca 7
+#EXTINF:-1 tvg-id=,Canal 5
+http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=,Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png",El Trece HD
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="AztecaNoticias" tvg-logo="azteca noticias.png",Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="multimedios monterrey.png",Multimedios TV
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
-
-‪#‎EXTINF‬:-1, CANAL DE LAS ESTRELLAS HD
-http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, CANAL 5 HD
-http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, AZTECA 7 HD
-http://200.76.77.230/LIVE/H01/CANAL107/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, Gala TV
-http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, AZTECA 13 HD
-http://200.76.77.230/LIVE/H01/CANAL113/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, UNICABLE
-http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8
-#‎EXTINF‬:-1, tnt
-http://200.76.77.230/LIVE/H01/CANAL482/PROFILE03.m3u8
-#‎EXTINF‬:-1, zona de cine HD
-http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8
-#‎EXTINF‬:-1, tnt hd
-http://200.76.77.230/LIVE/H01/CANAL435/PROFILE05.m3u8
-#‎EXTINF‬:-1, serie de Tnt
-http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,FOX
-http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8
-#‎EXTINF‬:-1, WARNER WB HD
-http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,UNIVERSAL
-http://200.76.77.230/LIVE/H01/CANAL256/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,UNIVERSAL HD
-http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8
-#‎EXTINF‬:-1, studio universal
-http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,FX
-http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,FX HD
-http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,AXN
-http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8
-#‎EXTINF‬:-1, el espacio
-http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,SONY
-http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,SYFY
-http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8
-#‎EXTINF‬:-1, la & y
-http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,AMC
-http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,DE PELICULA HD
-http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8
-#‎EXTINF‬:-1, golden hd
-http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8
-#‎EXTINF‬:-1, Golden Edge
-http://200.76.77.230/LIVE/H01/CANAL484/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,TMC
-http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8
-‪#‎EXTINF‬:-1,CINECANAL
-http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8
-‪#‎EXTINF‬:-1, Cinecanal +
-http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8
-#‎EXTINF‬:-1, CINEMAX
-http://200.76.77.230/LIVE/H01/CANAL481/PROFILE05.m3u8
-#‎EXTINF‬:-1, fox 1 hd
-http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8
-#‎EXTINF‬:-1, FOX ACTION HD
-http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8
-#‎EXTINF‬:-1, fox movies HD
-http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8
-#‎EXTINF‬:-1, fox cine
-http://200.76.77.230/LIVE/H01/CANAL472/PROFILE03.m3u8
-#‎EXTINF‬:-1, fox family
-http://200.76.77.230/LIVE/H01/CANAL475/PROFILE03.m3u8
- #EXTINF:-1,FOX CLASSIS
-http://200.76.77.230/LIVE/H01/CANAL478/PROFILE03.m3u8
-#‎EXTINF‬:-1,FOXLIFE
-http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8
-#‎EXTINF‬:-1, tbs veryfunny
-http://200.76.77.230/LIVE/H01/CANAL273/PROFILE03.m3u8
- #EXTINF:-1,DISTRITO COMEDIA
-http://200.76.77.230/LIVE/H01/CANAL272/PROFILE03.m3u8
-#‎EXTINF‬:-1, comedy central
-http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8
-#‎EXTINF‬:-1, Nick Jr
-http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8
-#‎EXTINF‬:-1, cbeebies
-http://200.76.77.230/LIVE/H01/CANAL305/PROFILE03.m3u8
-#‎EXTINF‬:-1, Disney Jr
-http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8
-#‎EXTINF‬:-1, discovery kids
-http://200.76.77.230/LIVE/H01/CANAL303/PROFILE03.m3u8
-#‎EXTINF‬:-1, cartoon networt
-http://200.76.77.230/LIVE/H01/CANAL320/PROFILE03.m3u8
-#‎EXTINF‬:-1, nick
-http://200.76.77.230/LIVE/H01/CANAL317/PROFILE05.m3u8
-#‎EXTINF‬:-1, Nick HD
-http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8
-#‎EXTINF‬:-1,DISNEY XD
-http://200.76.77.230/LIVE/H01/CANAL322/PROFILE03.m3u8
-#‎EXTINF‬:-1, disney channel
-http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8
-#‎EXTINF‬:-1, tooncast
-http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8
-#‎EXTINF‬:-1, nick toons
-http://200.76.77.230/LIVE/H01/CANAL314/PROFILE03.m3u8
-#‎EXTINF‬:-1,BOOMERANG
-http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8
- #EXTINF:-1,TIIN
-http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8
-#‎EXTINF‬:-1, glitz
-http://200.76.77.230/LIVE/H01/CANAL270/PROFILE03.m3u8
-#‎EXTINF‬:-1, E
-http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8
-#‎EXTINF‬:-1, de la historia
-http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8
- #EXTINF:-1,TLC
-http://200.76.77.230/LIVE/H01/CANAL386/PROFILE03.m3u8
-#‎EXTINF‬:-1, nat geo
-http://200.76.77.230/LIVE/H01/CANAL377/PROFILE03.m3u8
-#‎EXTINF‬:-1, nat geo wild
-http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8
-#‎EXTINF‬:-1, animal planet
-http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8
-#‎EXTINF‬:-1, descubrimiento
-http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8
- #EXTINF:-1,DISCOVERY CIVILIZACION
-http://200.76.77.230/LIVE/H01/CANAL382/PROFILE03.m3u8
-#‎EXTINF‬:-1, discovery id
-http://200.76.77.230/LIVE/H01/CANAL263/PROFILE05.m3u8
-#‎EXTINF‬:-1, el descubrimiento de la ciencia
-http://200.76.77.230/LIVE/H01/CANAL381/PROFILE05.m3u8
-#‎EXTINF‬:-1, descubrimiento theater HD
-http://200.76.77.230/LIVE/H01/CANAL351/PROFILE05.m3u8
-#‎EXTINF‬:-1, discovery turbo
-http://200.76.77.230/LIVE/H01/CANAL383/PROFILE05.m3u8
-#‎EXTINF‬:-1, descubrimiento palabra HD
-http://200.76.77.230/LIVE/H01/CANAL356/PROFILE05.m3u8
- #EXTINF:-1,GOURMET
-http://200.76.77.230/LIVE/H01/CANAL268/PROFILE03.m3u8
-#‎EXTINF‬:-1, TRU TV
-http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8
- #EXTINF:-1,WOBI
-http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8
-#‎EXTINF‬:-1, isat
-http://200.76.77.230/LIVE/H01/CANAL495/PROFILE03.m3u8
-#‎EXTINF‬:-1, de por vida
-http://200.76.77.230/LIVE/H01/CANAL379/PROFILE03.m3u8
-#‎EXTINF‬:-1, hogar y salud
-http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8
-#‎EXTINF‬:-1, tele hit hd
-http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8
- #EXTINF:-1,MTV
-http://200.76.77.230/LIVE/H01/CANAL726/PROFILE03.m3u8
-#‎EXTINF‬:-1, MTV LIVE HD
-http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8
- #Extinf :- 1, ESPN
-http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8
-#‎EXTINF‬:-1, ESPN HD
-http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8
-#‎EXTINF‬:-1, ESPN 2
-http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8
-#‎EXTINF‬:-1, espn3
-http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8
-#‎EXTINF‬:-1, FOX SPORTS
-http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8
-#‎EXTINF‬:-1, FOX SPORTS 2
-http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8
-
-#EXTINF:-1,Once TV
+#EXTINF:-1 tvg-id=,Once TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id=,El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8?rebase=on
+
 
 #EXTINF:-1,Capital 21 México
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
-#EXTINF:-1,Tec TV
-http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
-
+#EXTINF:-1 tvg-id=,Mexico Travel Channel
+0
 
 #EXTINF:-1,ViajAR
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
@@ -201,11 +33,49 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 #EXTINF:-1 tvg-id=,UNO TV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
 
+#EXTINF:-1 tvg-id=,Azteca Internacional
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id=,Multimedios Monterrey
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+
+#EXTINF:-1 tvg-id=,Cadena 3
+http://200.76.77.230/LIVE/H01/CANAL143/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=,Gala TV
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+
+#EXTINF:-1 tvg-id=,Univision
+
+
 #EXTINF:-1 tvg-id=,TV Mas
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=,EfektoTV
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Tec TV
+http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
+
+
+#EXTINF:-1 tvg-id=, HMX
+0
+
+#EXTINF:-1 tvg-id=,Telemundo
+
+#EXTINF:-1 tvg-id=,Azteca Internacional
+http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Proyecto 40
+http://200.76.77.230/LIVE/H01/CANAL140/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,El Financiero - Bloomberg
+http://200.76.77.230/LIVE/H01/CANAL610/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Milenio TV
+http://200.76.77.230/LIVE/H01/CANAL603/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,TeleFórmula
+http://200.76.77.230/LIVE/H01/CANAL161/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-id=,Nuestravision Noticias
 http://video7.stream.mx:1935/8034/8034/playlist.m3u8
@@ -213,18 +83,15 @@ http://video7.stream.mx:1935/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id=,Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id=,CNN en español
+0
 #EXTINF:-1 tvg-id=,CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_528.m3u8
 
 #EXTINF:-1 tvg-id=,CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
-#EXTINF:-1 tvg-id=,CNN Español
-http://31.220.41.111/LiveEdgeTesting/_definst_/CNNLASD/playlist.m3u8?token=
-
-
-#EXTINF:-1 tvg-name=, BBC World News
+#EXTINF:-1 tvg-name=,  BBC World News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 
 #EXTINF:-1 tvg-id=,ABC News
@@ -239,8 +106,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u
 #EXTINF:-1 tvg-id= , CCTV News
 http://77.36.61.45:8010/CCTVNews.m3u8?Vd?u#bt!25
 
-#EXTINF:-1 tvg-id=,DW Latinoamerica
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1,Deutsche Welle
+http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
 
 #EXTINF:-1 tvg-id=,NASA
 http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
@@ -248,15 +116,17 @@ http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
 #EXTINF:-1 tvg-id=, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id=,TVE Internacional
+http://200.76.77.230/LIVE/H01/CANAL651/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-id= ,Tve 24h HD
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 
 #EXTINF:-1 tvg-id= ,Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/22-live.m3u8
-
-#EXTINF:-1 group-title="Variedades",TV5 Monde Francia
-http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
-
 
 #EXTINF:-1 tvg-id=,EWTN
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
@@ -267,36 +137,356 @@ http://streamtv.betheltv.pe:1935/bethelgospelhd/_definst_/mp4:streamingbethel25h
 #EXTINF:-1 tvg-id=,Canal María Visión
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?
 
+#EXTINF:-1 tvg-id=,Fox NatGeo HD
+http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Sony HD
+http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Warner HD
+http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Universal HD
+http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,FX HD
+http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,A&E
+http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,AXN HD
+http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Comedy Central HD
+http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Distrito Comedia
+http://200.76.77.230/LIVE/H01/CANAL272/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,TBS
+http://200.76.77.230/LIVE/H01/CANAL273/PROFILE05.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,Unicable
+http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,BBC Entertainment
+http://200.76.77.230/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,E! Entertainment Television
+http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+
 #EXTINF:-1 tvg-name="Fashion TV" , FTV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Fashion TV" , FTV
+http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png",Discovery en español
+
+
+#EXTINF:-1 tvg-id=,SyFy
+http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,FX
+http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,El Garage
+http://200.76.77.230/LIVE/H01/CANAL269/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,TNT Series
+http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,El Gourmet
+http://200.76.77.230/LIVE/H01/CANAL268/PROFILE05.m3u8?
+
+
+#EXTINF:-1, CHEF Tv
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8?
+
+#EXTINF:-1,Hogar TV Colombia
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+
+
+#EXTINF:-1 tvg-id=,Glitz
+http://200.76.77.230/LIVE/H01/CANAL270/PROFILE05.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,Fox Life
+http://200.76.77.230/LIVE/H01/CANAL271/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,Home and Health
+http://200.76.77.230/LIVE/H01/CANAL374/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Casa Club
+http://200.76.77.230/LIVE/H01/CANAL274/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=,Lifetime
+http://200.76.77.230/LIVE/H01/CANAL379/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=,MasChic
+http://200.76.77.230/LIVE/H01/CANAL221/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=,Hola TV
+http://200.76.77.230/LIVE/H01/CANAL219/PROFILE05.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,Tlnovelas
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Az Corazón
+http://200.76.77.230/LIVE/H01/CANAL45/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Discovery Kids
+http://200.76.77.230/LIVE/H01/CANAL303/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,CBeebies
+http://200.76.77.230/LIVE/H01/CANAL305/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Disney Jr
+http://200.76.77.230/LIVE/H01/CANAL310/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,Nick Jr
+http://200.76.77.230/LIVE/H01/CANAL310/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Disney Channel
+http://200.76.77.230/LIVE/H01/CANAL312/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Nick HD
+http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Nickelodeon (Nick)
+http://200.76.77.230/LIVE/H01/CANAL317/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,Nick Toons
+http://200.76.77.230/LIVE/H01/CANAL314/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,Cartoon Network
+http://200.76.77.230/LIVE/H01/CANAL320/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=DisneyXD.mx,Disney XD
+http://200.76.77.230/LIVE/H01/CANAL322/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Boomerang
+http://200.76.77.230/LIVE/H01/CANAL324/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,ToonCast
+http://200.76.77.230/LIVE/H01/CANAL328/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,TIIN
+http://200.76.77.230/LIVE/H01/CANAL325/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,HD Theater
+http://200.76.77.230/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,History HD
+http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,History 2
+http://oneplay.tv/darkuzdev/?ch=H2LASD
+
+#EXTINF:-1 tvg-id=,NatGeo Wild
+
+
+#EXTINF:-1 tvg-id=,NatGeo Wild
+http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Discovery World
+http://200.76.77.230/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1 tvg-id=,Discovery Channel
+http://200.76.77.230/LIVE/H01/CANAL371/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Investigación Discovery
+http://200.76.77.230/LIVE/H01/CANAL263/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Animal Planet
+http://200.76.77.230/LIVE/H01/CANAL373/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,NatGeo
+http://200.76.77.230/LIVE/H01/CANAL377/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Discovery Science
+http://200.76.77.230/LIVE/H01/CANAL381/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Discovery Civilization
+http://200.76.77.230/LIVE/H01/CANAL382/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Discovery Turbo
+http://200.76.77.230/LIVE/H01/CANAL383/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,TruTV HD
+http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,TLC
+http://200.76.77.230/LIVE/H01/CANAL386/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,WOBI TV
+http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,TNT
+0
+
+
+#EXTINF:-1 tvg-id=,Golden Edge
+http://200.76.77.230/LIVE/H01/CANAL484/PROFILE05.m3u8?
 
 
 
 
-#EXTINF:-1 tvg-id="History Channel", History Channel
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=,AMC
+http://200.76.77.230/LIVE/H01/CANAL490/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Studio Universal
+http://200.76.77.230/LIVE/H01/CANAL492/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,TCM
+http://200.76.77.230/LIVE/H01/CANAL496/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,Fox 1 HD
+http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,Fox Action HD
+http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Fox Movies HD
+http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Cinecanal HD
+http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=,TNT HD
+http://200.76.77.230/LIVE/H01/CANAL435/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Golden HD
+http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,The Film Zone HD
+http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,De Película HD
+http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Cinemax (W)
+http://200.76.77.230/LIVE/H01/CANAL481/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,AMC HD
+http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Space HD
+http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Fox Cinéma
+http://200.76.77.230/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Fox Family (E)
+http://200.76.77.230/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Fox Classics
+http://200.76.77.230/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=,Cinecanal (W)
+http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8?
+
+
+
+
+#EXTINF:-1 tvg-id=,MovieCity
+
+
+#EXTINF:-1 tvg-id=,HBO Plus
+http://oneplay.tv/darkuzdev/?DisneyjrLA
+
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png",HBO 2 Latino
+
 
 
 #EXTINF:-1 tvg-id=EXT,CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
+#EXTINF:-1 tvg-id=,ESPN HD
+http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,ESPN
+http://200.76.77.230/LIVE/H01/CANAL558/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,ESPN 2
+http://200.76.77.230/LIVE/H01/CANAL561/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,ESPN 3 HD
+http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Fox Sports HD
+http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,Fox Sports 2 HD
+http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?
 
 #EXTINF:-1 tvg-id=,beIN en Español
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
 
+
+#EXTINF:-1 tvg-id=,AyM Sports
+http://200.76.77.230/LIVE/H01/CANAL576/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-id=,Claro Sports
-http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8?sd=10&rebase=on
+0
 
+#EXTINF:-1 tvg-id=,PX
+http://200.76.77.230/LIVE/H01/CANAL528/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-id=,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id=,Planeta Futbol
+0
 
 #EXTINF:-1,Eurosport 
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
@@ -304,38 +494,54 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 tvg-id=,Golf Channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.23 9.112.104
 
-#EXTINF:-1 tvg-id=,TVC Deportes
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
-
-
+#EXTINF:-1 tvg-id=,Univision TDN
+0
 #EXTINF:-1 tvg-id="Azteca Deportes" tvg-logo="azteca deportes.png",Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 
-#EXTINF:-1,HBO
-http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:0,Gol TV HD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
+#EXTINF:0,Gol TV SD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga_b1096000.m3u8
 
-#EXTINF:-1,HBO Family
-http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:-1,ARENA SPORT
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1,NFL Network
+0
+#EXTINF:-1,UFC Network
+0
 
-#EXTINF:-1,HBO 2
-http://31.220.40.108/LiveEdge/HBO2SD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:-1 tvg-id=,MTV Live HD
+http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png",HBO 2 Latino
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:-1 tvg-id=,Telehit HD
+http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,VH1
+http://92.50.181.6/tv/1282/index.m3u8
+
+#EXTINF:-1 tvg-id=,VH1
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=,VH1.mx,VH1 Classisc
+http://200.76.77.230/LIVE/H01/CANAL728/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,MTV
+http://200.76.77.230/LIVE/H01/CANAL726/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=,EXT,MTV Hits
+http://200.76.77.230/LIVE/H01/CANAL727/PROFILE05.m3u8?
 
 
-#EXTINF:-1,HBO Plus
-http://31.220.40.108/LiveEdge/HBOPlusLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
 
-#EXTINF:-1,HBO Plus 2
-http://31.220.40.108/LiveEdge/HBOPus2LASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb 
+#EXTINF:-1 tvg-id=,Ritmoson Latino
+http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 
+#EXTINF:-1 tvg-id=,Bandamax
+http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
 
 #EXTINF:-1,MTV Rock
 http://92.50.181.6/tv/1279/index.m3u8
-
-#EXTINF:-1,VH1
-http://92.50.181.6/tv/1282/index.m3u8
 
 #EXTINF:-1, tvg-logo="mtvr.png",MTV ROCK 
 http://92.50.181.6/tv/1279/index.m3u8
@@ -348,6 +554,14 @@ http://92.50.181.6/tv/1281/index.m3u8
 
 #EXTINF:-1, tvg-logo="mtvm.png",MTV OPCION 2 
 http://92.50.181.6/tv/1284/index.m3u8
+
+#EXTINF:-1,Dance Floor MUSICA
+http://www.djing.com/tv/dancefloor.m3u8?
+#EXTINF:-1,Underground MUSICA
+http://www.djing.com/tv/underground.m3u8?
+
+#EXTINF:-1 tvg-id=,I.Sat
+http://200.76.77.230/LIVE/H01/CANAL495/PROFILE05.m3u8?
 
 
 #EXTINF:-1 tvg-id=,Mundo Fox
@@ -398,6 +612,720 @@ http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
 #EXTINF:-1 tvg-name="London Live", London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
 
+#EXTINF:-1 tvg-name=,CANALES FULL HD
+#EXTINF:-1 tvg-id="Fox NatGeo HD" group-title="FULL HD",Fox NatGeo HD
+http://200.76.77.230/LIVE/H01/CANAL201/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Sony HD
+http://200.76.77.230/LIVE/H01/CANAL203/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Warner HD
+http://200.76.77.230/LIVE/H01/CANAL205/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Universal HD
+http://200.76.77.230/LIVE/H01/CANAL207/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",FX HD
+http://200.76.77.230/LIVE/H01/CANAL209/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",A&E
+http://200.76.77.230/LIVE/H01/CANAL211/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",AXN HD
+http://200.76.77.230/LIVE/H01/CANAL213/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",TruTV HD
+http://200.76.77.230/LIVE/H01/CANAL215/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Comedy Central HD
+http://200.76.77.230/LIVE/H01/CANAL217/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Nick HD
+http://200.76.77.230/LIVE/H01/CANAL315/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",HD Theater
+http://200.76.77.230/LIVE/H01/CANAL351/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",History HD
+http://200.76.77.230/LIVE/H01/CANAL353/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",NatGeo Wild
+http://200.76.77.230/LIVE/H01/CANAL355/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Discovery World
+http://200.76.77.230/LIVE/H01/CANAL356/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fox 1 HD
+http://200.76.77.230/LIVE/H01/CANAL415/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fox Action HD
+http://200.76.77.230/LIVE/H01/CANAL416/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fox Movie HD
+http://200.76.77.230/LIVE/H01/CANAL417/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Cinecanal HD
+http://200.76.77.230/LIVE/H01/CANAL430/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",TNT HD
+http://200.76.77.230/LIVE/H01/CANAL435/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Golden HD
+http://200.76.77.230/LIVE/H01/CANAL436/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",The Film Zone HD
+http://200.76.77.230/LIVE/H01/CANAL440/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",De Película HD
+http://200.76.77.230/LIVE/H01/CANAL442/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",AMC HD
+http://200.76.77.230/LIVE/H01/CANAL444/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Space HD
+http://200.76.77.230/LIVE/H01/CANAL445/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",MTV Live HD
+http://200.76.77.230/LIVE/H01/CANAL701/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Telehit HD
+http://200.76.77.230/LIVE/H01/CANAL702/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",VH1
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Canal 2 HD
+http://200.76.77.230/LIVE/H01/CANAL102/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Canal 5 HD
+http://200.76.77.230/LIVE/H01/CANAL105/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",El Trece HD
+http://200.76.77.230/LIVE/H01/CANAL23/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",ONCE TV
+http://200.76.77.230/LIVE/H01/CANAL111/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Foro TV
+http://200.76.77.230/LIVE/H01/CANAL104/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Milenio TV
+http://200.76.77.230/LIVE/H01/CANAL603/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",El Financiero - Bloomberg
+http://200.76.77.230/LIVE/H01/CANAL610/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Proyecto 40 HD
+http://200.76.77.230/LIVE/H01/CANAL140/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Unicable
+http://200.76.77.230/LIVE/H01/CANAL218/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",ESPN HD
+http://200.76.77.230/LIVE/H01/CANAL516/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",ESPN 3 HD
+http://200.76.77.230/LIVE/H01/CANAL520/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fox Sports HD
+http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fox Sports 2 HD
+http://200.76.77.230/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Mas Chic HD
+http://200.76.77.230/LIVE/H01/CANAL221/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Fashion TV HD
+http://200.76.77.230/LIVE/H01/CANAL220/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id= group-title="FULL HD",Hola TV HD
+http://200.76.77.230/LIVE/H01/CANAL219/PROFILE05.m3u8?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",60's
@@ -490,658 +1418,3 @@ http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
 http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
-http://buecrplb01.cienradios.com.ar/50_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",60's
-http://buecrplb01.cienradios.com.ar/60_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
-http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio Beatles
-http://108.61.73.119:8062/;stream.nsv
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80´s
-http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",80's Argentina
-http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90´s USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
-http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Bossa Nova
-http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Brasil
-http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",BritPop
-http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",JPop
-http://pub1.radiotunes.com:80/radiotunes_jpop?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Country
-http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Cuarteto
-http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electro Tango
-http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="radios.png group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Raggae
-http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reggaeton
-http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Hits
-http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Latino
-http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Salsa
-http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Smooth Jazz
-http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Mellow Jazz
-http://pub6.radiotunes.com:80/radiotunes_mellowjazz?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top USA
-http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Lounge
-http://pub3.radiotunes.com:80/radiotunes_smoothlounge?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Musica del Mundo
-http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Yoga
-http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
-http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Relajación
-http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",New Age
-http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
-http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
-
